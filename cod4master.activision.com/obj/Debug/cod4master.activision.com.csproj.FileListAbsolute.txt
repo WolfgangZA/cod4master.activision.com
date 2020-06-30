@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\cod4master.activision.com\cod4master.activision.com\bin\Debug\cod4master.activision.com.exe.config
+C:\Users\User\OneDrive\cod4master.activision.com\cod4master.activision.com\bin\Debug\cod4master.activision.com.exe
+C:\Users\User\OneDrive\cod4master.activision.com\cod4master.activision.com\bin\Debug\cod4master.activision.com.pdb
+C:\Users\User\OneDrive\cod4master.activision.com\cod4master.activision.com\obj\Debug\cod4master.activision.com.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\cod4master.activision.com\cod4master.activision.com\obj\Debug\cod4master.activision.com.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\cod4master.activision.com\cod4master.activision.com\obj\Debug\cod4master.activision.com.exe
+C:\Users\User\OneDrive\cod4master.activision.com\cod4master.activision.com\obj\Debug\cod4master.activision.com.pdb
+D:\OneDrive Personal\OneDrive\cod4master.activision.com\cod4master.activision.com\obj\Debug\cod4master.activision.com.csprojAssemblyReference.cache
+D:\OneDrive Personal\OneDrive\cod4master.activision.com\cod4master.activision.com\obj\Debug\cod4master.activision.com.csproj.CoreCompileInputs.cache
+D:\OneDrive Personal\OneDrive\cod4master.activision.com\cod4master.activision.com\obj\Debug\cod4master.activision.com.exe
+D:\OneDrive Personal\OneDrive\cod4master.activision.com\cod4master.activision.com\obj\Debug\cod4master.activision.com.pdb
+D:\OneDrive Personal\OneDrive\cod4master.activision.com\cod4master.activision.com\bin\Debug\cod4master.activision.com.exe.config
+D:\OneDrive Personal\OneDrive\cod4master.activision.com\cod4master.activision.com\bin\Debug\cod4master.activision.com.exe
+D:\OneDrive Personal\OneDrive\cod4master.activision.com\cod4master.activision.com\bin\Debug\cod4master.activision.com.pdb
